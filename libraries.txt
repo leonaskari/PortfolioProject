@@ -1,0 +1,17 @@
+requests
+yfinance
+pandas
+numpy
+
+
+pip install -r requirements.txt --break-system-packages
+export T212_API_KEY="your_key_here"
+
+# dry run first
+python trading212_bot.py --watchlist AAPL MSFT NVDA
+
+# once you trust it, on demo account
+python trading212_bot.py --watchlist AAPL MSFT NVDA --auto-execute
+
+# real money — only after thorough testing
+python trading212_bot.py --watchlist AAPL MSFT NVDA --auto-execute --live

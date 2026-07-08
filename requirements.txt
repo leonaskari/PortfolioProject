@@ -1,0 +1,30 @@
+# MetaTrader 5 Trend-Following Stock Screener & Alert Bot
+# Install: pip install -r requirements.txt
+
+# Core data & analysis
+pandas>=2.0.0
+numpy>=1.24.0
+yfinance>=0.2.30
+
+# HTTP & API
+requests>=2.31.0
+
+# MetaTrader 5 bridge (works on macOS via network connection to MT5 terminal)
+mt5linux>=1.0.0
+
+# Dashboard (optional — for the Streamlit UI)
+streamlit>=1.28.0
+
+# Scheduling (optional — for automated daily scans)
+APScheduler>=3.10.0
+
+# Notifications (optional — for Telegram/Discord)
+# telegram: uses requests (already included)
+# discord: uses requests (already included)
+# email: uses smtplib (stdlib)
+
+# Database
+# SQLite3 is built into Python's stdlib
+
+# Testing
+pytest>=7.4.0
