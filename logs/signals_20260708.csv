@@ -1,0 +1,10 @@
+timestamp,ticker,action,price,confidence,entry_passed,shares,stop_loss,target,rr,rationale
+2026-07-08T19:35:22.956506+00:00,AAPL,HOLD,313.95001220703125,0.4,0,,,,,Rules passed: 3/6 | Confidence: 40% | No entry — hard rules not met
+2026-07-08T19:35:22.956617+00:00,MSFT,HOLD,383.44000244140625,0.0,0,,,,,Rules passed: 1/6 | Confidence: 0% | No entry — hard rules not met
+2026-07-08T19:35:22.956637+00:00,NVDA,HOLD,204.65499877929688,0.34,0,,,,,Rules passed: 3/6 | Confidence: 34% | No entry — hard rules not met
+2026-07-08T19:35:22.956652+00:00,GOOGL,HOLD,359.32000732421875,0.4,0,,,,,Rules passed: 3/6 | Confidence: 40% | No entry — hard rules not met
+2026-07-08T19:35:22.956665+00:00,AMZN,HOLD,242.61000061035156,0.187,0,,,,,Rules passed: 3/6 | Confidence: 19% | No entry — hard rules not met
+2026-07-08T19:35:22.956677+00:00,META,HOLD,600.5399780273438,0.0,0,,,,,Rules passed: 1/6 | Confidence: 0% | No entry — hard rules not met
+2026-07-08T20:08:36.983292+00:00,AAPL,HOLD,313.3900146484375,0.4,0,,,,,Rules passed: 3/6 | Confidence: 40% | No entry — hard rules not met
+2026-07-08T20:08:36.983348+00:00,MSFT,HOLD,383.3399963378906,0.0,0,,,,,Rules passed: 1/6 | Confidence: 0% | No entry — hard rules not met
+2026-07-08T20:08:36.983359+00:00,NVDA,HOLD,204.1199951171875,0.325,0,,,,,Rules passed: 3/6 | Confidence: 33% | No entry — hard rules not met
